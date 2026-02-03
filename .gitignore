@@ -1,0 +1,10 @@
+# Node
+node_modules/
+package-lock.json
+npm-debug.log
+.DS_Store
+
+# Build outputs
+dist/
+build/
+.env
